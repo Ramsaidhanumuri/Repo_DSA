@@ -11,10 +11,10 @@
 # Usually the version often seen in the interviews is reversing the whole linked list which is obviously an easier version of this question.
 
 # Definition for singly-linked list.
-# class ListNode:
-#	def __init__(self, x):
-#		self.val = x
-#		self.next = None
+class ListNode:
+	def __init__(self, x):
+		self.val = x
+		self.next = None
 
 class Solution:
 	# @param A : head node of linked list
